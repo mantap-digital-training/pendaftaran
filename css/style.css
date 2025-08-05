@@ -1,0 +1,40 @@
+
+    
+    .navbar-brand img {
+      height: 40px;
+      width: auto;
+    }
+
+.navbar-custom {
+    background: linear-gradient(90deg, #0057b7, #007bff); /* biru elegan */
+  }
+
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link {
+    color: white;
+  }
+
+  .navbar-custom .nav-link:hover {
+    color: #d4e5ff;
+  }
+
+ 
+    .data-label {
+      font-weight: bold;
+    }
+    @media print {
+      .btn, nav, footer {
+        display: none !important;
+      }
+    }
+    .navbar-brand img {
+      height: 40px;
+      width: auto;
+    }
+
+
+    .navbar-brand img {
+      height: 40px;
+      width: auto;
+    }
+  
